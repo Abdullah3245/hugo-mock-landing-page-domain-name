@@ -8,7 +8,9 @@
 
     .bd-masthead {
         padding: 3rem 0;
-        background-image: linear-gradient(180deg, rgba(var(--bs-body-bg-rgb), 0.01), rgba(var(--bs-body-bg-rgb), 1) 85%),radial-gradient(ellipse at top left, rgba(var(--bs-primary-rgb), 0.5), transparent 50%),radial-gradient(ellipse at top right, rgba(var(--bd-accent-rgb), 0.5), transparent 50%),radial-gradient(ellipse at center right, rgba(var(--bd-violet-rgb), 0.5), transparent 50%),radial-gradient(ellipse at center left, rgba(var(--bd-pink-rgb), 0.5), transparent 50%);
+        // Removed gradient background and set a solid light-blue background color
+        background-image: none;
+        background-color: #e0f7fa;  // New masthead background color
     }
 
     .btn-bd-primary {
@@ -29,13 +31,13 @@
 
 .navbar {
     @extend .navbar-dark;
-
-    --bd-violet-rgb: 112.520718,44.062154,249.437846;
-    
     padding: .75rem 0;
-    background-color: transparent;
-    background-image: linear-gradient(to bottom, rgba(var(--bd-violet-rgb), 1), rgba(var(--bd-violet-rgb), 0.95));
-    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15),inset 0 -1px 0 rgba(0,0,0,0.15);
+    // Changed navbar to a solid dark teal background color
+    background-color: #004d40;
+    background-image: none;
+    // Changed the font type for the navbar
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15), inset 0 -1px 0 rgba(0,0,0,0.15);
 }
 
 .text-violet {
@@ -58,4 +60,9 @@
     &:hover {
         transform: rotate(-2deg) scale(1.1);
     }
+}
+
+// Global font override for the entire site (optional)
+body {
+    font-family: 'Roboto', sans-serif;
 }

@@ -1,7 +1,7 @@
 baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
 title = "My Cricket Landing Page"
 author = "Muhammad Abdullah Goher"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/Abdullah3245/hugo-mock-landing-page\">Made by </a> Abdullah."
+copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/Abdullah3245/hugo-mock-landing-page\">Made by </a> Abdullah Sopohomore."
 
 timeZone = 'EST'
 
