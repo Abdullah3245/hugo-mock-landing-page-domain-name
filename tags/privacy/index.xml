@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy on My Cricket Landing Page</title>
+    <link>https://Abdullah3245.github.io/hugo-mock-landing-page/tags/privacy/</link>
+    <description>Recent content in Privacy on My Cricket Landing Page</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/Abdullah3245/hugo-mock-landing-page&#34;&gt;Made by &lt;/a&gt; Abdullah Sopohomore.</copyright>
+    <atom:link href="https://Abdullah3245.github.io/hugo-mock-landing-page/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://Abdullah3245.github.io/hugo-mock-landing-page/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Abdullah3245.github.io/hugo-mock-landing-page/privacy-policy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: We do not use cookies and do not collect any personal data.&lt;/p&gt;&#xA;&lt;h2 id=&#34;website-visitors&#34;&gt;Website Visitors&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No personal information is collected.&lt;/li&gt;&#xA;&lt;li&gt;No data is stored in your browser.&lt;/li&gt;&#xA;&lt;li&gt;We do not share, sell, or monetize any information.&lt;/li&gt;&#xA;&lt;li&gt;No information is shared with third parties or advertisers.&lt;/li&gt;&#xA;&lt;li&gt;No data is used for tracking or behavioral analysis.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;what-information-is-collected&#34;&gt;What Information is Collected&lt;/h2&gt;&#xA;&lt;p&gt;Our hosting server may automatically log minimal technical details to help with debugging and performance, including:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

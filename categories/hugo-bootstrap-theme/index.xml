@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Bootstrap Theme on My Cricket Landing Page</title>
+    <link>https://Abdullah3245.github.io/hugo-mock-landing-page/categories/hugo-bootstrap-theme/</link>
+    <description>Recent content in Hugo Bootstrap Theme on My Cricket Landing Page</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/Abdullah3245/hugo-mock-landing-page&#34;&gt;Made by &lt;/a&gt; Abdullah Sopohomore.</copyright>
+    <lastBuildDate>Tue, 04 Feb 2025 13:10:43 -0500</lastBuildDate>
+    <atom:link href="https://Abdullah3245.github.io/hugo-mock-landing-page/categories/hugo-bootstrap-theme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Bootstrap Theme alpha</title>
+      <link>https://Abdullah3245.github.io/hugo-mock-landing-page/post/hugo-bootstrap-theme/</link>
+      <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
+      <guid>https://Abdullah3245.github.io/hugo-mock-landing-page/post/hugo-bootstrap-theme/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Open-source MIT Licensed Hugo Theme, using Bootstrap 5.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;🛡️ Security aware&lt;/p&gt;&#xA;&lt;p&gt;Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;⚡ Fast by default&lt;/p&gt;&#xA;&lt;p&gt;Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
