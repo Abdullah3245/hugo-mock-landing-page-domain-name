@@ -1,4 +1,4 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+baseURL = 'https://Abdullah3245.github.io/hugo-mock-landing-page/'
 title = "My Cricket Landing Page"
 author = "Muhammad Abdullah Goher"
 copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/Abdullah3245/hugo-mock-landing-page\">Made by </a> Abdullah Sopohomore."
@@ -26,7 +26,7 @@ enableEmoji = true
 [taxonomies]
   tag = "tags"
   category = "categories"
-  series = 'series'
+  series = "series"
   author = "authors"
 
 [sitemap]

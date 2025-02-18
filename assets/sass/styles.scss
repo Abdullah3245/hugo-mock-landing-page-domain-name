@@ -8,9 +8,8 @@
 
     .bd-masthead {
         padding: 3rem 0;
-        // Removed gradient background and set a solid light-blue background color
-        background-image: none;
-        background-color: #e0f7fa;  // New masthead background color
+        // Apply a consistent green gradient background to the masthead
+        background: linear-gradient(45deg, #388e3c, #66bb6a);
     }
 
     .btn-bd-primary {
@@ -32,10 +31,8 @@
 .navbar {
     @extend .navbar-dark;
     padding: .75rem 0;
-    // Changed navbar to a solid dark teal background color
-    background-color: #004d40;
-    background-image: none;
-    // Changed the font type for the navbar
+    // Apply the same green gradient to the navbar for consistency
+    background: linear-gradient(45deg, #388e3c, #66bb6a);
     font-family: 'Roboto', sans-serif;
     box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15), inset 0 -1px 0 rgba(0,0,0,0.15);
 }
@@ -47,7 +44,6 @@
 .list {
     .card {
         transition: transform 0.2s ease-in-out;
-
         &:hover {
             transform: scale(1.01);
         }
@@ -56,13 +52,13 @@
 
 .navbar-brand {
     transition: transform 0.2s ease-in-out;
-
     &:hover {
         transform: rotate(-2deg) scale(1.1);
     }
 }
 
-// Global font override for the entire site (optional)
+// Global font override and green gradient background for the entire site
 body {
     font-family: 'Roboto', sans-serif;
+    background: linear-gradient(45deg, #388e3c, #66bb6a);
 }

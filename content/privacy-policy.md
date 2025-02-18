@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-description: " We do not use cookies and we do not collect any personal data."
+description: "We do not use cookies and do not collect any personal data for this student project."
 draft: false
 tags: ["Privacy"]
 menu:
@@ -10,32 +10,31 @@ menu:
 
 # Privacy Policy
 
-**TL;DR**: We do not use cookies and we do not collect any personal data.
+**TL;DR**: We do not use cookies and do not collect any personal data.
 
-## Website visitors
+## Website Visitors
 
 - No personal information is collected.
-- No information is stored in the browser.
-- No information is shared with, sent to or sold to third-parties.
-- No information is shared with advertising companies.
-- No information is mined and harvested for personal and behavioral trends.
-- No information is monetized.
+- No data is stored in your browser.
+- We do not share, sell, or monetize any information.
+- No information is shared with third parties or advertisers.
+- No data is used for tracking or behavioral analysis.
 
-## Information we collect and what we use it for
+## What Information is Collected
 
-The server hosting this site can collect the following information:
+Our hosting server may automatically log minimal technical details to help with debugging and performance, including:
 
 - Page URL
 - HTTP Referrer
-- Browser
+- Browser type
 - Operating system
 - Device type
 - IP address
 
-All logs are discarded in every release.
+These logs are temporary and are discarded with every release.
 
-## Contact us
+## Contact Us
 
-[Contact us](/hugo-bootstrap-theme/contact/) if you have any questions.
+If you have any questions about this Privacy Policy, please [contact us](/contact/).
 
-Effective Date: *15th May 2022*
+**Effective Date:** *15th May 2022*
