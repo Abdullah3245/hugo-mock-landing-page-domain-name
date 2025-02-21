@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contact through Email"
 draft: false
 menu:
   main:
